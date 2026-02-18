@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "I Love Her Again",
+  "base_artist": "J. Cole",
+  "createdAt": "2026-02-18T13:09:02.765017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Love Her Again",
+      "artist": "J. Cole",
+      "has_synced": true,
+      "path": "select/01_I_Love_Her_Again_J._Cole.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I Love Her Again",
+      "artist": "J.Cole",
+      "has_synced": false,
+      "path": "select/pl_01_I_Love_Her_Again_J.Cole.txt"
+    }
+  ]
+}
